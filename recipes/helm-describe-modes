@@ -1,2 +1,1 @@
-(helm-describe-modes :fetcher github
-		     :repo "emacs-helm/helm-describe-modes")
+(helm-describe-modes :fetcher github :repo "emacs-helm/helm-describe-modes")
